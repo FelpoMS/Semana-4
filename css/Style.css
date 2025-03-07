@@ -18,8 +18,7 @@ body{
 
 .topo a{
     color: white;
-    text-decoration: none;
-      
+    text-decoration: none;  
 }
 
 .nevbar ul{
@@ -36,4 +35,12 @@ body{
 .nevbar a:hover{
     background-color: rgb(245, 105, 105);
     border-radius: 5px;
+}
+
+.conteudo-black{
+    background-color: rgb(44, 44, 44);
+}
+
+.conteudo-blue{
+    background-color: blue;
 }
